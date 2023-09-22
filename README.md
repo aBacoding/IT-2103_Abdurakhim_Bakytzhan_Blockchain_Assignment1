@@ -1,5 +1,10 @@
 # IT-2103_Abdurakhim_Bakytzhan_Blockchain_Assignment1
 
+## Running Settings
+
+1. `npm install crypto` - will install the necessary dependency (crypto)
+2. `node main.js` - compiles the main javascript file and shows result in console
+
 Course: Blockchain Technologies Assignment: Implementing a Basic Blockchain with Merkle Tree
 
 Objective: The objective of this programming assignment is to introduce students to the fundamental concepts of blockchain technology and provide hands-on experience in implementing a basic blockchain system with the inclusion of a Merkle tree. This assignment does not require knowledge of dApps, Solidity, or smart contracts.
