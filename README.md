@@ -13,32 +13,32 @@ Instructions:
   textbooks, or academic papers. Gain a solid understanding of how
   blockchain technology functions.
 
-**Answer:**
+  **Answer:**
 
-**Decentralization:** Unlike traditional systems where control is exercised by a single entity, in a blockchain, control is distributed among many computers (called nodes). Each of them has equal rights and access to all data.
+  **Decentralization:** Unlike traditional systems where control is exercised by a single entity, in a blockchain, control is distributed among many computers (called nodes). Each of them has equal rights and access to all data.
 
-**Immutability:** Once a transaction is added to the blockchain, it stays there forever. It cannot be changed or deleted, which keeps it honest and secure.
+  **Immutability:** Once a transaction is added to the blockchain, it stays there forever. It cannot be changed or deleted, which keeps it honest and secure.
 
-**Consensus Mechanisms:** There are methods to ensure that everyone agrees that transactions are valid. Common methods include Proof of Work and Proof of Stake.
+  **Consensus Mechanisms:** There are methods to ensure that everyone agrees that transactions are valid. Common methods include Proof of Work and Proof of Stake.
 
-**Smart Contracts:** These are a kind of digital contracts that automatically perform certain actions when conditions are met, without needing an intermediary.
+  **Smart Contracts:** These are a kind of digital contracts that automatically perform certain actions when conditions are met, without needing an intermediary.
 
-**Cryptography:** Techniques to ensure the security of data and authenticity of transactions.
+  **Cryptography:** Techniques to ensure the security of data and authenticity of transactions.
 
-**Tokenization:** Assets can be turned into digital tokens on the blockchain, making them easy to exchange and transfer to different owners.
+  **Tokenization:** Assets can be turned into digital tokens on the blockchain, making them easy to exchange and transfer to different owners.
 
-**Peer-to-Peer Network (P2P):** Blockchain operates on a peer-to-peer network, eliminating the need for intermediaries, thus reducing costs and speeding up the process.
+  **Peer-to-Peer Network (P2P):** Blockchain operates on a peer-to-peer network, eliminating the need for intermediaries, thus reducing costs and speeding up the process.
 
-**Verification:** The process of checking that transactions and data are real and follow the rules in a blockchain network. Transactions are checked by the nodes in the network for validity before being added to the block.
+  **Verification:** The process of checking that transactions and data are real and follow the rules in a blockchain network. Transactions are checked by the nodes in the network for validity before being added to the block.
 
-**Distributed:** Data and decisions are distributed across many computers, not just one. Everyone in the network has a copy of the ledger, so everything's transparent for all to see. Each computer, called a node, keeps a copy of all transactions and has a say in their verification. In this way, no one person or organization has complete control, making everything fairer and more secure.
+  **Distributed:** Data and decisions are distributed across many computers, not just one. Everyone in the network has a copy of the ledger, so everything's transparent for all to see. Each computer, called a node, keeps a copy of all transactions and has a say in their verification. In this way, no one person or organization has complete control, making everything fairer and more secure.
 
 2. Team Formation (Optional):
 
 - Students have the option to form teams of up to 3 members for this
   assignment.
 
-**Answer:** I decided to do this assignment alone. My name is Abdurakhim Bakytzhan from group IT-2103.
+  **Answer:** I decided to do this assignment alone. My name is Abdurakhim Bakytzhan from group IT-2103.
 
 3. Blockchain Implementation (Programming Task):
 
