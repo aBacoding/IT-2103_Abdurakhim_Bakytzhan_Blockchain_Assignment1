@@ -29,6 +29,14 @@ class MerkleTree {
 		// Recurse with the parent nodes as input, until reaching the root
 		return this.buildTree(parentNodes)
 	}
+
+	hash(data) {
+		return crypto.createHash('sha256').update(data).digest('hex') // Hashing function
+	}
+
+	getRoot() {
+		return this.tree // Fetch the root hash of the Merkle tree
+	}
 }
 
 module.exports = MerkleTree // Exporting the MerkleTree class for use in other files
