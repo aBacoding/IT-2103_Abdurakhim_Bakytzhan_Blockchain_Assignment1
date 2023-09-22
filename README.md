@@ -8,12 +8,12 @@ Instructions:
 
 1. Investigate Blockchain Principles (5 points):
 
-Before starting the implementation, students should investigate blockchain
-principles and working mechanisms by utilizing internet resources,
-textbooks, or academic papers. Gain a solid understanding of how
-blockchain technology functions.
+- Before starting the implementation, students should investigate blockchain
+  principles and working mechanisms by utilizing internet resources,
+  textbooks, or academic papers. Gain a solid understanding of how
+  blockchain technology functions.
 
-Answer:
+**Answer:**
 
 **Decentralization:** Unlike traditional systems where control is exercised by a single entity, in a blockchain, control is distributed among many computers (called nodes). Each of them has equal rights and access to all data.
 
@@ -35,54 +35,56 @@ Answer:
 
 2. Team Formation (Optional):
 
-Students have the option to form teams of up to 3 members for this
-assignment.
+- Students have the option to form teams of up to 3 members for this
+  assignment.
+
+**Answer:** I decided to do this assignment alone. My name is Abdurakhim Bakytzhan from group IT-2103.
 
 3. Blockchain Implementation (Programming Task):
 
-3.1 Define Blockchain Structure (10 points):
+   3.1 Define Blockchain Structure (10 points):
 
-Clear and complete definition of block structure.
+- Clear and complete definition of block structure.
 
-3.2 Initialize Blockchain (10 points):
+  3.2 Initialize Blockchain (10 points):
 
-Proper initialization of the blockchain with a genesis block.
+* Proper initialization of the blockchain with a genesis block.
 
-3.3 Add Blocks (15 points):
+  3.3 Add Blocks (15 points):
 
-Successful implementation of block addition with proper linking.
+* Successful implementation of block addition with proper linking.
 
-3.4 Handle Transactions (15 points):
+  3.4 Handle Transactions (15 points):
 
-Effective mechanism for transaction handling within blocks.
+- Effective mechanism for transaction handling within blocks.
 
-3.5 Merkle Tree Integration (15 points):
+  3.5 Merkle Tree Integration (15 points):
 
-Proper integration and utilization of a Merkle tree for transaction storage and
-verification.
+* Proper integration and utilization of a Merkle tree for transaction storage and
+  verification.
 
-3.6 Block Validation (10 points):
+  3.6 Block Validation (10 points):
 
-Robust block validation process ensuring block integrity.
+- Robust block validation process ensuring block integrity.
 
-3.7 Version Control (VCS) (10 points):
+  3.7 Version Control (VCS) (10 points):
 
-Effective use of VCS, including regular commits by all team members.
+* Effective use of VCS, including regular commits by all team members.
 
-3.8 Interface Integration (10 points):
+  3.8 Interface Integration (10 points):
 
-Integration of an interface enabling user interactions. Students have the
-flexibility to create various types of interfaces, including web, API, GUI,
-functional, or console interfaces.
+- Integration of an interface enabling user interactions. Students have the
+  flexibility to create various types of interfaces, including web, API, GUI,
+  functional, or console interfaces.
 
-3.9 Final Review (5 points):
+  3.9 Final Review (5 points):
 
-Comprehensive review of the blockchain implementation.
+* Comprehensive review of the blockchain implementation.
 
 4. Demonstration and Q&A (Individual or Team Task) (15 points):
 
-Effective demonstration of blockchain functionality, including the Merkle
-tree.
+- Effective demonstration of blockchain functionality, including the Merkle
+  tree.
 
-Clear and confident responses to questions related to the program's
-functionality and contributions to the VCS.
+* Clear and confident responses to questions related to the program's
+  functionality and contributions to the VCS.
