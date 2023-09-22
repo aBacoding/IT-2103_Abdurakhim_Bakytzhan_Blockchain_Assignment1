@@ -51,9 +51,27 @@ Instructions:
 
 - Clear and complete definition of block structure.
 
+  **Answer:**
+
+  **Block Header:**
+
+  a. Number: Specifies the version of the block format.
+
+  b. Previous Block Hash: A reference to the hash of the previous block in the chain, ensuring the integrity and order of the blocks in the blockchain.
+
+  c. Merkle Root: A hash of all the transactions included in the block, ensuring the integrity of transaction data.
+
+  d. Timestamp: A timestamp marking the time when the block was created.
+
+  e. Nonce: A changeable random value used to find a block hash that meets the proof-of-work criteria.
+
+  **Block Body:**
+
+- Everything related to transactions is included directly in the block body. A transaction captures an event, like when cash is transferred from a sender's account to a receiver's account. Each transaction has its own structure, which includes, among other things, input, output, and amount.
+
   3.9 Final Review (5 points):
 
-* Comprehensive review of the blockchain implementation.
+- Comprehensive review of the blockchain implementation.
 
 4. Demonstration and Q&A (Individual or Team Task) (15 points):
 
