@@ -12,6 +12,7 @@ textbooks, or academic papers. Gain a solid understanding of how
 blockchain technology functions.
 
 2. Team Formation (Optional):
+
 • Students have the option to form teams of up to 3 members for this
 assignment.
 
