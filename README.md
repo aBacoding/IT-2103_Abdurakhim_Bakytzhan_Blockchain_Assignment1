@@ -51,7 +51,7 @@ Instructions:
 
 - Clear and complete definition of block structure.
 
-  **Answer:**
+  **Answer:** Block structure, in terms of blockchain technology, is about the way data is arranged and structured within a block. Every block in a blockchain holds several transactions and metadata concerning the block itself. In particular, we can distinguish two main parts of a block - the block header and the block body.
 
   **Block Header:**
 
