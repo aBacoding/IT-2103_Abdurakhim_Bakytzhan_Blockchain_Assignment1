@@ -105,3 +105,9 @@ Instructions:
 
 * Clear and confident responses to questions related to the program's
   functionality and contributions to the VCS.
+
+  **Answer:**
+
+  ## Execution Output
+
+  The output generated from running the `node main.js` command has been saved in the `output.txt` file. Refer to [output.txt](output.txt) for the detailed execution log.
