@@ -69,6 +69,12 @@ Instructions:
 
 - Everything related to transactions is included directly in the block body. A transaction captures an event, like when cash is transferred from a sender's account to a receiver's account. Each transaction has its own structure, which includes, among other things, input, output, and amount.
 
+  3.7 Version Control (VCS) (10 points):
+
+* Effective use of VCS, including regular commits by all team members.
+
+  **Answer:** As you can see, since I work alone, all the commits were made by me.
+
   3.9 Final Review (5 points):
 
 - Comprehensive review of the blockchain implementation.
