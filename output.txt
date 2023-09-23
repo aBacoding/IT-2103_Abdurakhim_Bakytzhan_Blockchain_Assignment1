@@ -1,0 +1,64 @@
+Blockchain initialized:  [
+  {
+    "index": 0,
+    "previousHash": "0",
+    "timestamp": 1695428988912,
+    "transactions": [],
+    "hash": "86e5c2c2f9f35f1917cbe30274ed734bfdbe6b67162a901d23a3bac8084e69e1"
+  }
+]
+Transactions created:  [        
+  {
+    "fromAddress": "Abdurakhim",
+    "toAddress": "Bakytzhan",   
+    "amount": 100
+  },
+  {
+    "fromAddress": "Bakytzhan", 
+    "toAddress": "Abdu",
+    "amount": 50
+  }
+]
+Block added:  {
+  "index": 1,
+  "previousHash": "86e5c2c2f9f35f1917cbe30274ed734bfdbe6b67162a901d23a3bac8084e69e1",
+  "timestamp": 1695428988916,
+  "transactions": [
+    {
+      "fromAddress": "Abdurakhim",
+      "toAddress": "Bakytzhan",
+      "amount": 100
+    },
+    {
+      "fromAddress": "Bakytzhan",
+      "toAddress": "Abdu",
+      "amount": 50
+    }
+  ],
+  "hash": "8f310c47e267c2f73f580d03b66a054566dd7781b765c9eb27027c504d0a4eb4",
+  "merkleTree": {
+    "transactions": [
+      {
+        "fromAddress": "Abdurakhim",
+        "toAddress": "Bakytzhan",
+        "amount": 100
+      },
+      {
+        "fromAddress": "Bakytzhan",
+        "toAddress": "Abdu",
+        "amount": 50
+      }
+    ],
+    "tree": "97861700527d52fb7387182150d6cd81e62091e5485266d8379497642744b3ff"
+  }
+}
+Blockchain is valid.
+Blockchain reset:  [
+  {
+    "index": 0,
+    "previousHash": "0",
+    "timestamp": 1695428988912,
+    "transactions": [],
+    "hash": "86e5c2c2f9f35f1917cbe30274ed734bfdbe6b67162a901d23a3bac8084e69e1"
+  }
+]
