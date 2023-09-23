@@ -6,6 +6,27 @@ const crypto = require('crypto') // Importing the crypto library for hashing fun
 class Blockchain {
 	constructor() {
 		this.chain = [this.createGenesisBlock()] // Initializing blockchain with genesis block
+		this.pendingTransactions = [] // New attribute to hold unconfirmed transactions
+	}
+
+	// 3.4 Handle Transactions: Effective mechanism for transaction handling within blocks.
+	createTransaction(transaction) {
+		// Add transaction to pending transactions
+		this.pendingTransactions.push(transaction)
+	}
+
+	processTransactions() {
+		// Check if there are any transactions to process
+		if (this.pendingTransactions.length === 0) {
+			console.log('No transactions to process')
+			return
+		}
+
+		// Create a new block with all pending transactions
+		this.addBlock(this.pendingTransactions)
+
+		// Clear the list of pending transactions
+		this.pendingTransactions = []
 	}
 
 	createGenesisBlock() {
