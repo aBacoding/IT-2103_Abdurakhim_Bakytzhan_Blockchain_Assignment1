@@ -79,25 +79,25 @@ Instructions:
 
 - Comprehensive review of the blockchain implementation.
 
-**Answer:**
+  **Answer:**
 
-In my Block class, I've encapsulated the essential components that define a block in a blockchain. I have initialized key attributes such as index, previousHash, timestamp, transactions, and hash in the constructor, laying down a clear and concise structure for a block.
+  In my Block class, I've encapsulated the essential components that define a block in a blockchain. I have initialized key attributes such as index, previousHash, timestamp, transactions, and hash in the constructor, laying down a clear and concise structure for a block.
 
-I implemented the genesis block creation through the createGenesisBlock method, ensuring a robust starting point for the blockchain. This is a crucial step that sets the stage for adding subsequent blocks to the chain.
+  I implemented the genesis block creation through the createGenesisBlock method, ensuring a robust starting point for the blockchain. This is a crucial step that sets the stage for adding subsequent blocks to the chain.
 
-With the addBlock method, I have effectively handled the addition of new blocks to the chain. Moreover, I've managed the previousHash linkage adeptly, ensuring the integrity of the blockchain as it expands.
+  With the addBlock method, I have effectively handled the addition of new blocks to the chain. Moreover, I've managed the previousHash linkage adeptly, ensuring the integrity of the blockchain as it expands.
 
-I encapsulated transactions in the Transaction class and implemented createTransaction and processTransactions methods to handle transactions before they're consolidated into a block. While basic, this provides a pathway for more robust validation and processing of transactions in the future.
+  I encapsulated transactions in the Transaction class and implemented createTransaction and processTransactions methods to handle transactions before they're consolidated into a block. While basic, this provides a pathway for more robust validation and processing of transactions in the future.
 
-In the MerkleTree class, I introduced a mechanism for hashing transactions and organizing them into a tree structure, aligning with the principles of a Merkle Tree. The buildTree and hash methods were well thought out to optimize transaction verification.
+  In the MerkleTree class, I introduced a mechanism for hashing transactions and organizing them into a tree structure, aligning with the principles of a Merkle Tree. The buildTree and hash methods were well thought out to optimize transaction verification.
 
-I incorporated isBlockValid and isChainValid methods for basic validation, ensuring the integrity and correctness of the data within the blockchain. This is fundamental for maintaining trust and authenticity in the blockchain data.
+  I incorporated isBlockValid and isChainValid methods for basic validation, ensuring the integrity and correctness of the data within the blockchain. This is fundamental for maintaining trust and authenticity in the blockchain data.
 
-I provided a simple console-based interface through the main.js script for interacting with the blockchain. Although basic, it demonstrates the core functionalities of my blockchain implementation effectively.
+  I provided a simple console-based interface through the main.js script for interacting with the blockchain. Although basic, it demonstrates the core functionalities of my blockchain implementation effectively.
 
-I have organized my code in a modular fashion across different files and classes, which will facilitate maintenance and future expansions. However, I acknowledge that more commentary within the code could enhance its readability and understandability.
+  I have organized my code in a modular fashion across different files and classes, which will facilitate maintenance and future expansions. However, I acknowledge that more commentary within the code could enhance its readability and understandability.
 
-To summarize, my blockchain implementation lays a solid foundation with well-structured and modular code. The core functionality is implemented well and there is a clear path for expansion and improvement, especially in areas such as transaction processing, error handling, user interface and performance optimization.
+  To summarize, my blockchain implementation lays a solid foundation with well-structured and modular code. The core functionality is implemented well and there is a clear path for expansion and improvement, especially in areas such as transaction processing, error handling, user interface and performance optimization.
 
 4. Demonstration and Q&A (Individual or Team Task) (15 points):
 
